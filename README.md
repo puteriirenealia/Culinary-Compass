@@ -1,4 +1,4 @@
-# 🍽️ AI Restaurant Review Analyzer
+# 🍽️ Culinary Compass: AI Restaurant Review Analyzer
 
 > Transform restaurant reviews into actionable insights using AI
 
